@@ -1,0 +1,4 @@
+g4f
+colorama
+os-sys
+lib-platform
