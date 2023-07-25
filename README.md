@@ -12,3 +12,9 @@
 ```
 pip install -r requirements.txt
 ```
+#### Lancer Free Chat Gpt
+Pour lancer Free Chat Gpt c'est très simple vous n'avez juste qu'à compiler le programme Free GPT dans votre terminal. 
+Après avoir faits cela vous devriez avoir comme résultat ceci :
+
+<img width="462" alt="Capture d’écran 2023-07-25 à 11 45 34" src="https://github.com/adrien1438/Free_ChatGPT/assets/44178126/2aa53b5c-eda2-4bc1-9074-e8cb6a91d97c">
+
