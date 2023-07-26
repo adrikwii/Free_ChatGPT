@@ -2,7 +2,7 @@
 
 ##### Free Chat Gpt
   Pour utiliser free chat gpt c'est très simple vous n'avez pas besoin de clé api openai.
-  Il vous suffit de télécharger répertoire et d'éxécuter les commande suivante dans le terminal :
+  Il vous suffit de télécharger le répertoire et d'éxécuter les commandes suivante dans le terminal :
 
 #### Si vous n'avez pas encore installer python
 1. [Télécharger et installer Python](https://www.python.org/downloads/) (Version 3.x est recommander).
